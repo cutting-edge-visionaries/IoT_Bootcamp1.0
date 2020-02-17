@@ -6,7 +6,7 @@ ____________
 ## Instructions to add your own project
 
 1. Clone the repo 
-    ``` git clone git@github.com:cutting-edge-visionaries/IoT_Bootcamp1.0.git```
+    ``` git clone https://github.com/cutting-edge-visionaries/IoT_Bootcamp1.0.git```
 2. Create a new branch with your team name and switch to the new branch
    e.g  ```git branch team-5 && git checkout team-5```
 3. make a folder naming "**code**" inside directory **team-5**.
